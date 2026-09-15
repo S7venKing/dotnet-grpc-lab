@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "GrpcLab.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Path": "..\\GrpcClient\\GrpcClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
